@@ -21,7 +21,7 @@
          background-color: #fff !important;
            background: #ff0000;
 		   padding: 2rem 1rem;
-		   text-align: center;
+
         }
 
         header h1 {
@@ -88,7 +88,7 @@
             padding: 1.5rem;
             margin-bottom: 1.5rem;
             transition: transform 0.3s, box-shadow 0.3s;
-			text-align:center;
+
         }
 
         .blog-card:hover {
